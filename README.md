@@ -18,7 +18,9 @@ By：Eastmount CSDN Yangxiuzhang
 - Python图像识别系列：[Python图像处理及图像识别](https://blog.csdn.net/eastmount/category_9278090.html)
 - Python人工智能系列：[Python人工智能及知识图谱实战](https://blog.csdn.net/eastmount/category_9292178.html)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019112810131675.png#pic_center)
+<div algin="center">
+    ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019112810131675.png#pic_center)
+</div>
 
 前文：<br />
 [[Python人工智能] 一.TensorFlow2.0环境搭建及神经网络入门](https://blog.csdn.net/Eastmount/article/details/103282042) <br />
@@ -42,6 +44,8 @@ By：Eastmount CSDN Yangxiuzhang
 
 
 ---
+
+**Theano系列**
 
 
 
