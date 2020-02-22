@@ -19,7 +19,7 @@ By：Eastmount CSDN Yangxiuzhang
 - Python人工智能系列：[Python人工智能及知识图谱实战](https://blog.csdn.net/eastmount/category_9292178.html)
 
 <div algin="center">
-    ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019112810131675.png#pic_center)
+    <img src="https://img-blog.csdnimg.cn/2019112810131675.png" />
 </div>
 
 前文：<br />
