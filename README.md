@@ -40,6 +40,8 @@ By：Eastmount CSDN Yangxiuzhang
 - [[Python人工智能] 十五.无监督学习Autoencoder原理及聚类可视化案例详解](https://blog.csdn.net/Eastmount/article/details/103990297) <br />
 - [[Python人工智能] 十六.Keras环境搭建、入门基础及回归神经网络案例](https://blog.csdn.net/Eastmount/article/details/104313140) <br />
 - [[Python人工智能] 十七.Keras搭建分类神经网络及MNIST数字图像案例分析](https://blog.csdn.net/Eastmount/article/details/104366166) <br />
+- [[Python人工智能] 二十二.基于大连理工情感词典的情感分析和情绪计算](https://blog.csdn.net/Eastmount/article/details/107877713)  <br />
+- [[Python人工智能] 二十三.基于机器学习和TFIDF的情感分类（含详细的NLP数据清洗）](https://blog.csdn.net/Eastmount/article/details/107906799) <br />
 - [[Python人工智能] 二十四.易学智能GPU搭建Keras环境实现LSTM恶意URL请求分类](https://blog.csdn.net/Eastmount/article/details/109697350) <br />
 - [[Python人工智能] 二十六.基于BiLSTM-CRF的医学命名实体识别研究（上）数据预处理](https://blog.csdn.net/Eastmount/article/details/111526240) <br />
 - [[Python人工智能] 二十七.基于BiLSTM-CRF的医学命名实体识别研究（下）模型构建](https://blog.csdn.net/Eastmount/article/details/112249976)  <br />
