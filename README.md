@@ -40,6 +40,7 @@ By：Eastmount CSDN Yangxiuzhang
 - [[Python人工智能] 十五.无监督学习Autoencoder原理及聚类可视化案例详解](https://blog.csdn.net/Eastmount/article/details/103990297) <br />
 - [[Python人工智能] 十六.Keras环境搭建、入门基础及回归神经网络案例](https://blog.csdn.net/Eastmount/article/details/104313140) <br />
 - [[Python人工智能] 十七.Keras搭建分类神经网络及MNIST数字图像案例分析](https://blog.csdn.net/Eastmount/article/details/104366166) <br />
+- [[Python人工智能] 二十七.基于BiLSTM-CRF的医学命名实体识别研究（下）模型构建](https://blog.csdn.net/Eastmount/article/details/112249976)  <br />
 - [[Python人工智能] 二十八.Keras深度学习中文文本分类万字总结（CNN、TextCNN、LSTM、BiLSTM、BiLSTM+Attention）](https://blog.csdn.net/Eastmount/article/details/114809729)  <br />
 - [[Python人工智能] 二十九.什么是生成对抗网络GAN？基础原理和代码普及(1)](https://blog.csdn.net/Eastmount/article/details/115256149)  <br />
 - [《人工智能狂潮》读后感——什么是人工智能？(一)](https://blog.csdn.net/Eastmount/article/details/104161047) <br />
